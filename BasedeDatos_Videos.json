@@ -1,0 +1,23 @@
+{
+    "0": {
+    "Autor": "Disney",
+    "Duracion": "1h2m",
+    "Genero": "Infantil",
+    "ID": "80008",
+    "Titulo": "Cars 3"
+},
+    "1": {
+    "Autor": "Goku",
+    "Duracion": "2h2m",
+    "Genero": "Anime",
+    "ID": "123456778",
+    "Titulo": "Dragon Ball"
+},
+    "2": {
+    "Autor": "Daniel Creston",
+    "Duracion": "2h25m",
+    "Genero": "Superheroes",
+    "ID": "20260730",
+    "Titulo": "Spider-Man: Brand New Day"
+}
+}

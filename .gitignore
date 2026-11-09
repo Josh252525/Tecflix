@@ -1,0 +1,5 @@
+build/
+.vs/
+out/
+temp_video.json
+correr_mongo.bat
