@@ -15,4 +15,4 @@ Las especificaciones de usuarios, metadata, frontend y dashboard global deben se
 - Cinco optimizaciones medidas y 19 pruebas comparativas locales. No confundir procesos en un mismo host con dos servidores físicos.
 - Pendiente: despliegue en dos computadoras, pruebas de rendimiento y failover físico, integración React y autorización metadata, redundancia integral de las demás APIs y observabilidad, y separación formal de versiones V1/V2.
 
-Consultar [GUIA_PERSONA3.md](GUIA_PERSONA3.md) para operación y validación; no sustituye el informe académico.
+Consultar [GUIA_PERSONA3.md](GUIA_PERSONA3.md) para operación y validación.
